@@ -1,0 +1,9 @@
+{
+  "id": "player-emulator-helper",
+  "title": "Player Emulator Helper",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  }
+}
