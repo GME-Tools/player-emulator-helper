@@ -6,6 +6,6 @@
     "minimum": "12",
     "verified": "12"
   },
-  "manifest": "https://github.com/janssen-io/foundry-github-workflow/releases/download/latest/module.json",
-  "download": "https://github.com/janssen-io/foundry-github-workflow/releases/download/latest/my-module.zip"
+  "manifest": "https://github.com/GME-Tools/player-emulator-helper/releases/download/latest/module.json",
+  "download": "https://github.com/GME-Tools/player-emulator-helper/releases/download/latest/my-module.zip"
 }
